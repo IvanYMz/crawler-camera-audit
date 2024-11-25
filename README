@@ -7,7 +7,7 @@ Cruz Gallegos Ramses Aarón
 📜 Description
 This project automates the process of capturing screenshots and extracting camera names from an IP camera system on a local network, specifically designed for Hikvision. Using Playwright and ExcelJS, the script navigates the camera management page, performs the necessary actions to view the cameras, and then takes screenshots along with the names of each camera. The results are stored in an Excel file for easy camera management.
 
-Important Note: This project is designed for use only within a local network. The goal of this project helps me to automate a real-world task within my current job (Vallarta Plus IT department).  
+Important Note: This project is designed for use only within a local network. The goal of this project is to help me automate a real-world task within my current job (Vallarta Plus IT department).  
 
 ⚙️ Development tools
 Node.js
